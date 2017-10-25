@@ -1,5 +1,5 @@
 # HTML-Projects
-This folder contains projects related to new HTML features like
+This folder contains projects/demos related to new HTML features like
   1. WebRTC (Web Real-Time Communication)
   2. Demos on new HTML 5 features
       a. Offline Applications
